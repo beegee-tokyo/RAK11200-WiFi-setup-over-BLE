@@ -1,7 +1,7 @@
 # RAK11200-WiFi-setup-over-BLE
 |   |   |   |
 | :-: | :-: | :-: |
-| <img src="./assets/rakstar.jpg" width="150"> | <img src="./assets/Icon.png" width="150"> | <img src="./assets/RAK-Whirls.png" width="150"> |
+| <img src="./assets/rakstar.jpg" width="150"> | <img src="./assets/ICON.png" width="150"> | <img src="./assets/RAK-Whirls.png" width="150"> |
 # WORK IN PROGRESS => NO GUARANTEE THAT IT WORKS ON YOUR PHONE
 Setup your ESP32 WiFi credentials over BLE from an Android phone or tablet.
 Sometimes you do not want to have your WiFi credentials in the source code, specially if it is open source and maybe accessible as a repository on Github or Bitbucket.
