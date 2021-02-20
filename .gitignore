@@ -1,0 +1,6 @@
+./ESP32-WiFi-Setup-Over-BLE-Pio/.pio
+./ESP32-WiFi-Setup-Over-BLE-Pio/.vscode/.browse.c_cpp.db*
+./ESP32-WiFi-Setup-Over-BLE-Pio/.vscode/c_cpp_properties.json
+./ESP32-WiFi-Setup-Over-BLE-Pio/.vscode/launch.json
+./ESP32-WiFi-Setup-Over-BLE-Pio/.vscode/ipch
+ESP32-WiFi-Setup-Over-BLE-Pio/Generated
